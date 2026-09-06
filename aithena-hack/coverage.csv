@@ -1,0 +1,2 @@
+contract_id,pages,is_scanned,fields_verified,fields_inferred,fields_contested,fields_ungrounded,error
+test_contract.pdf,7,False,0,10,0,2,
